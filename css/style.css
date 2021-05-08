@@ -1,0 +1,49 @@
+header{
+    background-color: rgb(165, 151, 26);
+}
+.login{
+    position: absolute;   
+    top: 80px;
+    left: 200px;
+}
+.senha{
+    position: absolute;
+    top: 120px;   
+    left: 200px;
+}
+.status{
+    position: absolute;
+    top: 155px;
+    left: 200px;
+}
+
+.datacria{
+    position: absolute;
+    top: 220px;
+    left: 200px;
+}
+.tips{
+    position: absolute;
+    left: 200px;
+    top: 190px;
+}
+.perfil{
+    position: absolute;
+    top: 255px;
+    left: 200px;
+}
+.obs{
+    position: absolute;
+    left: 200px;
+    top: 290px;
+}
+.mod{
+    position: absolute;
+    left: 200px;
+    top: 480px;
+}
+.butao{
+    padding-top: 50px;
+}
+
+
